@@ -1,6 +1,6 @@
  # **CONTRIBUTOR LICENSE AGREEMENT**
 
-Thank you for your interest in contributing to Projects mad
+Thank you for your interest in contributing to Projects made
 available by CORE.AI SCIENTIFIC TECHNOLOGIES PRIVATE LIMITED
 ("CORE.AI"). In order to clarify the intellectual property 
 license granted with Contributions from any person or entity,
@@ -13,7 +13,7 @@ Contributions for any other purpose.
 
 This Agreement version allows an entity to submit Contributions
 to CORE.AI, authorize Contributions submitted by its designated
-employees to the COER.AI, and grant copyright and patent licenses.
+employees to the CORE.AI, and grant copyright and patent licenses.
 
 If you have not already done so, please complete and sign, scan 
 and email a pdf file of this Agreement to_________ (Email id). 
@@ -29,7 +29,7 @@ effective as of the latest signature date below.
 
 This CLA is effective as of the latest signature date below.
 
-  ###  1.  **DEFINITIONS.**
+  ###  1.**DEFINITIONS.**
     
    A. "**You**" (or "**Your**") shall mean the copyright owner or
        legal entity authorized by the copyright owner that is 
