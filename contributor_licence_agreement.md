@@ -142,7 +142,8 @@ This CLA is effective as of the latest signature date below.
   You agree to notify CORE.AI in writing any facts or circumstances
     of which You later become aware that would make any of Your representations 
     in this CLA inaccurate in any respect.
-    10. INFORMATION ABOUT SUBMISSIONS. You agree that contributions to Projects 
+ ### 10. INFORMATION ABOUT SUBMISSIONS. 
+ You agree that contributions to Projects 
     and information about contributions may be maintained indefinitely and 
     disclosed publicly, including Your name and other information you provide 
     with Your Submission.
