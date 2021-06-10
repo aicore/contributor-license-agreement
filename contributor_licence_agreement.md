@@ -28,7 +28,7 @@ effective as of the latest signature date below.
 
 
 This CLA is effective as of the latest signature date below.
-    1. ## **DEFINITIONS.**
+    1. ##**DEFINITIONS.**
        A. "**You**" (or "**Your**") shall mean the copyright owner or
        legal entity authorized by the copyright owner that is 
        making this Agreement with CORE.AI. For legal entities, 
